@@ -7,7 +7,7 @@ jobtitle: "Organizers"
 institutionurl: "https://www.poliba.it/"
 institution: Polytechnic University of Bari
 promoted: true
-weight: 4
+weight: 8
 layout: team
 personalpage: "http://sisinflab.poliba.it/deldjoo"
 ---

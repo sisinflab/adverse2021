@@ -7,7 +7,7 @@ jobtitle: "Organizers"
 institutionurl: "https://www.ru.nl/"
 institution: Radbound University
 promoted: true
-weight: 1
+weight: 4
 layout: team
 personalpage: "https://www.ru.nl/english/people/larson-m/"
 ---

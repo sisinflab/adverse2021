@@ -7,7 +7,7 @@ jobtitle: "Organizers"
 institutionurl: "https://ucsd.edu/"
 institution:  University of California
 promoted: true
-weight: 1
+weight: 3
 layout: team
 personalpage: "https://cseweb.ucsd.edu/~jmcauley/"
 ---

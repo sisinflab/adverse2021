@@ -7,7 +7,7 @@ jobtitle: "Organizers"
 institutionurl: "http://staff.ustc.edu.cn/"
 institution: University of Science and Technology of China
 promoted: true
-weight: 1
+weight: 7
 layout: team
 personalpage: "http://staff.ustc.edu.cn/~hexn/"
 ---
