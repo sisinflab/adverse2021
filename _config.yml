@@ -1,0 +1,78 @@
+baseurl: '/'
+permalink: pretty
+title: '11th Italian Information Retrieval Workshop'
+
+google_analytics_id: ""
+
+homepage:
+  show_call_box: false
+  show_social_buttons: true
+
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "36px"
+
+footer:
+  credits: 'The illustration on this website have been created for <a href="http://www.around.bari.it">Around Bari</a> by <a href="https://moh.design">MOH Design Studio</a>.'
+  copyright_text: '©2021 SisInfLab.'
+
+seo:
+  meta_og_title: "11th Italian Information Retrieval Workshop"
+  meta_og_type: "website"
+  meta_og_url: "https://sisinflab.github.io/iir2021/"
+  meta_og_image: "https://sisinflab.github.io/iir2021/images/preview.png"
+  meta_og_description: "The Italian Information Retrieval Workshop (IIR) is a meeting forum stimulating and disseminating research in Information Retrieval, where Italian researchers (especially young ones) and researchers affiliated with Italian institutions can network and discuss their research results in an informal way."
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@sisinflab"
+  meta_twitter_creator: "@sisinflab"
+
+collections:
+  services:
+    output: true
+  editions:
+    output: true
+  team:
+    output: true
+  talks:
+    output: true
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
+
+conference:
+  lang: en
+  show_errors: True
+
+  speakers:
+    show_firstname: true
+
+  location:
+    url: '/location'
+    map:
+      enable: true
+      default_zoom: 17
+      home_coord: 47.37808, 8.53935
+      map_provider: "OpenStreetMap.Mapnik"
+
+  program:
+    url: '/program'
+    time_steps: 15
+    show_alltimes: true
