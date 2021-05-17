@@ -1,1 +1,1 @@
-# IIR 2021 | Italian Information Retrieval Workshop
+# AdveRSe 2021 | 1st International Workshop on Adversarial Machine Learning for Recommendation and Search

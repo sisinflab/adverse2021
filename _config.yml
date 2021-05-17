@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: '11th Italian Information Retrieval Workshop'
+title: '1st International Workshop on Adversarial Machine Learning for Recommendation and Search'
 
 google_analytics_id: ""
 
@@ -9,20 +9,19 @@ homepage:
   show_social_buttons: true
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/test-mobile.png"
+  desktop: "images/logo/test.png"
   desktop_height: "36px"
 
 footer:
-  credits: 'The illustration on this website have been created for <a href="http://www.around.bari.it">Around Bari</a> by <a href="https://moh.design">MOH Design Studio</a>.'
   copyright_text: '©2021 SisInfLab.'
 
 seo:
-  meta_og_title: "11th Italian Information Retrieval Workshop"
+  meta_og_title: "The 1st International Workshop on Adversarial Machine Learning for Recommendation and Search"
   meta_og_type: "website"
-  meta_og_url: "https://sisinflab.github.io/iir2021/"
-  meta_og_image: "https://sisinflab.github.io/iir2021/images/preview.png"
-  meta_og_description: "The Italian Information Retrieval Workshop (IIR) is a meeting forum stimulating and disseminating research in Information Retrieval, where Italian researchers (especially young ones) and researchers affiliated with Italian institutions can network and discuss their research results in an informal way."
+  meta_og_url: "https://sisinflab.github.io/adverse2021/"
+  meta_og_image: "https://sisinflab.github.io/adverse2021/images/preview.png"
+  meta_og_description: "The 1st International Workshop on Adversarial Machine Learning for Recommendation and Search (AdveRSe) is a meeting forum stimulating and disseminating research in Adversarial Machine Learning for Recommendation and Search, where researchers and practitioners can network and discuss their research results."
   meta_twitter_card: "summary"
   meta_twitter_site: "@sisinflab"
   meta_twitter_creator: "@sisinflab"

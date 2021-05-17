@@ -5,8 +5,23 @@
     "image": "images/sisinflab-logo.png"
   },
   {
-    "title": "IMS Research Group",
-    "description": "Università degli Studi di Padova",
-    "image": "images/ims-logo.png"
+    "title": "University of California San Diego",
+    "description": "University of California San Diego",
+    "image": "images/diego.png"
+  },
+  {
+    "title": "Multimedia Information Technology",
+    "description": "Radbound University",
+    "image": "images/RadboundUniversity.svg"
+  },
+  {
+    "title": "USTC Lab for Data Science",
+    "description": "University of Science and Technology of China\n",
+    "image": "images/ustclab.png"
+  },
+  {
+  "title": "PRA Lab",
+  "description": "Università di Cagliari",
+  "image": "images/cagliari.png"
   }
 ]

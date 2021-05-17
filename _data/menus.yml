@@ -1,7 +1,7 @@
 main:
-  - name: "About IIR"
-    url: "/about/"
-    weight: 2
+#  - name: "About adveRSe"
+#    url: "/about/"
+#    weight: 2
   - name: "Call for Papers"
     url: "/cfp/"
     weight: 3
