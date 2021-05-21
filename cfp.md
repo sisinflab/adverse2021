@@ -9,7 +9,7 @@ bodyClass: page-about
 ## Scope
 The purpose of the 1st International Workshop on Adversarial Machine Learning for Recommendation and Search (AdveRSe) is to provide the first venue in the IR community to provide a place to encourage discussion, create novel collaborations, and share research ideas mainly focused on understanding the threat of adversarial machine learning and countering this threat to achieve trustworthy search and recommendation systems.
 
-AdveRSe 2021 is the 1st edition of the International Workshop on Adversarial Machine Learning for Recommendation and Search. It will take place **online** on November 1-1, 2021 in conjunction with [CIKM 2021](http://www.cikm2021.org/).
+AdveRSe 2021 is the 1st edition of the International Workshop on Adversarial Machine Learning for Recommendation and Search. It will take place **online** on November 1-5, 2021 in conjunction with [CIKM 2021](http://www.cikm2021.org/).
 
 ## Topics
 
@@ -54,10 +54,10 @@ Authors are invited to submit one of the following types of contributions:
 Submission will be through Easychair at [https://easychair.org/conferences/?conf=adverse2021](https://easychair.org/conferences/?conf=adverse2021).
 
 ## Important Dates
-* **Submission website opens**: TBA
-* **Submission deadline**: TBA
+* **Submission website opens**: TBA (Early June)
+* **Submission deadline**: TBA (Early July)
 * **Notification of acceptance**: August 10, 2021
-* **Camera ready deadline**: September 10, 2021
+* **Camera ready deadline**: TBA
 * **AdvRSe 2021**: November 1-5, 2021
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
