@@ -7,9 +7,8 @@ bodyClass: page-about
 
 
 ## Scope
-The purpose of the 1st International Workshop on Adversarial Machine Learning for Recommendation and Search (AdveRSe) is to provide the first venue in the IR community to provide a place to encourage discussion, create novel collaborations, and share research ideas mainly focused on understanding the threat of adversarial machine learning and countering this threat to achieve trustworthy search and recommendation systems.
-
-AdveRSe 2021 is the 1st edition of the International Workshop on Adversarial Machine Learning for Recommendation and Search. It will take place **online** on November 1-5, 2021 in conjunction with [CIKM 2021](http://www.cikm2021.org/).
+The purpose of the International Workshop on Adversarial Machine Learning for Recommendation and Search (AdveRSe) is to provide a venue in the IR community to provide a place to encourage discussion, create novel collaborations, and share research ideas mainly focused on understanding the threat of adversarial machine learning and countering this threat to achieve trustworthy search and recommendation systems.
+AdveRSe 2021 will take place **online** on November 1-5, 2021 in conjunction with [CIKM 2021](http://www.cikm2021.org/).
 
 ## Topics
 
@@ -41,12 +40,9 @@ AdveRSe 2021 offers an opportunity to present and discuss both theoretical and e
     - Counterfactual reasoning 
 
 ## Submissions
-Manuscripts should be submitted to CIKM’21’s Easychair site in PDF format, using the ACM sigconf template, see [ACM Template](https://www.acm.org/publications/proceedings-template). 
+Manuscripts should be submitted via Easychair in PDF format, using the ACM sigconf template, see [ACM Template](https://www.acm.org/publications/proceedings-template). 
 
-To be considered, papers must be received by the submission deadline (see [Important Dates](#important-dates)). The short and long papers review process is double-blind. The authors must anonymize their submissions. 
-Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop. 
-Short and long paper submissions must be original work and may not be under submission to another venue at the time of review. Accepted papers will be indexed in the CEUR workshop proceedings. 
-
+To be considered, papers must be received by the submission deadline (see [Important Dates](#important-dates)). The short and long papers review process is double-blind. The authors must anonymize their submissions. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop. Short and long paper submissions must be original work and may not be under submission to other venues at the time of review. Accepted papers will be indexed in the CEUR workshop proceedings.
 Authors are invited to submit one of the following types of contributions:
 * Full Papers 
 * Short Papers
