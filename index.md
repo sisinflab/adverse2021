@@ -14,7 +14,7 @@ Recently, research in adversarial machine learning has brought to light importan
 
 The purpose of the **1st International Workshop on Adversarial Machine Learning for Recommendation and Search** (**AdveRSe**)  is to provide a meeting forum for stimulating and disseminating research in Adversarial Machine Learning for Recommendation and Search Systems, where researchers can network and discuss their research results in an informal way.
 
-The **Half-Day Workshop** will take place **online** on November 1-5, 2021 in conjunction with the **30th ACM International Conference on Information and Knowledge Management** ([CIKM 2021](http://www.en.poliba.it/)), osted in Gold Coast, Queensland, Australia.
+The **Half-Day Workshop** will take place **online** on November 1-5, 2021 in conjunction with the **30th ACM International Conference on Information and Knowledge Management** ([CIKM 2021](http://www.en.poliba.it/)), hosted in Gold Coast, Queensland, Australia.
 
 ## List of Organizers
 

@@ -40,18 +40,20 @@ AdveRSe 2021 offers an opportunity to present and discuss both theoretical and e
     - Counterfactual reasoning 
 
 ## Submissions
-Manuscripts should be submitted via Easychair in PDF format, using the ACM sigconf template, see [ACM Template](https://www.acm.org/publications/proceedings-template). 
+Submissions of full research papers must be in English, in PDF format in the CEUR-WS two-column conference format available at CEURART or at  OVERLEAF TEMPLATE if an Overleaf is preferred.
 
-To be considered, papers must be received by the submission deadline (see [Important Dates](#important-dates)). The short and long papers review process is double-blind. The authors must anonymize their submissions. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop. Short and long paper submissions must be original work and may not be under submission to other venues at the time of review. Accepted papers will be indexed in the CEUR workshop proceedings.
-Authors are invited to submit one of the following types of contributions:
-* Full Papers 
-* Short Papers
+* **Long Papers** should report on substantial contributions of lasting value. The Long papers must have a length of minimum 6 and maximum 8 pages (plus an unlimited number of pages for references). Each accepted long paper will be included in the CEUR on-line Workshop proceedings and presented in a plenary session as part of the Workshop program.
+* **Short Papers** typically discuss exciting new work that is not yet mature enough for a long paper. In particular, novel but significant proposals will be considered for acceptance to this category despite not having gone through sufficient experimental validation or lacking strong theoretical foundation. Applications of adversarial learning in recommendation and search systems to novel areas are especially welcome. The Short Papers must have a length of minimum 3 and maximum 5 pages (plus an unlimited number of pages for references). 
+
+Each accepted short paper will be included in the CEUR on-line Workshop proceedings
+To be considered, papers must be received by the submission deadline (see Important Dates). The short and long papers review process is double-blind. The authors must anonymize their submissions. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop. Short and long paper submissions must be original work and may not be under submission to other venues at the time of review.
 
 Submission will be through Easychair at [https://easychair.org/conferences/?conf=adverse2021](https://easychair.org/conferences/?conf=adverse2021).
 
 ## Important Dates
-* **Submission website opens**: TBA (Early June)
-* **Submission deadline**: TBA (Early July)
+* **Submission website opens**: May 26, 2021
+* **Abstract registration deadline**:	July 3, 2021
+* **Submission deadline**: July 10, 2021
 * **Notification of acceptance**: August 10, 2021
 * **Camera ready deadline**: TBA
 * **AdvRSe 2021**: November 1-5, 2021
