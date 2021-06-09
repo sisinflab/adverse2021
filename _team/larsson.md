@@ -5,7 +5,7 @@ draft: false
 image: "images/team/larsson.jpg"
 jobtitle: "Organizers"
 institutionurl: "https://www.ru.nl/"
-institution: Radbound University
+institution: Radboud University
 promoted: true
 weight: 4
 layout: team
