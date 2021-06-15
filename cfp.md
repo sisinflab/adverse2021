@@ -57,4 +57,4 @@ Submission will be through Easychair at [https://easychair.org/conferences/?conf
 * **Camera ready deadline**: TBA
 * **AdvRSe 2021**: November 1-5, 2021
 
-Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
+Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.TB
