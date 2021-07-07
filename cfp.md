@@ -16,7 +16,7 @@ AdveRSe 2021 offers an opportunity to present and discuss both theoretical and e
 
 - **Theory and algorithms for AML in search and recommendation**
   - Attacks on images, videos, audio signals, and text
-  - Attacks on model parameters with gradient methods 
+  - Attack.institutions on model parameters with gradient methods 
   - Attacks by generating of fake profiles, e.g., customer one-commerce platforms 
   - Attacks crafted with generative adversarial networks 
   - Real-world attack scenarios–Other attack techniques 
@@ -51,7 +51,7 @@ Submission will be through Easychair at [https://easychair.org/conferences/?conf
 
 ## Important Dates
 * **Submission website opens**: May 26, 2021
-* **Abstract registration deadline**:	July 3, 2021
+* **Abstract registration deadline**:	July 3, 2021 (Extended to July 10, 2021)
 * **Submission deadline**: July 10, 2021
 * **Notification of acceptance**: August 10, 2021
 * **Camera ready deadline**: TBA
