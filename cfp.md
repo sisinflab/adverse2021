@@ -51,8 +51,7 @@ Submission will be through Easychair at [https://easychair.org/conferences/?conf
 
 ## Important Dates
 * **Submission website opens**: May 26, 2021
-* **Abstract registration deadline**:	July 3, 2021 (Extended to July 10, 2021)
-* **Submission deadline**: July 10, 2021
+* **Submission deadline**: July 10, 2021 (Extended to July 17, 2021)
 * **Notification of acceptance**: August 10, 2021
 * **Camera ready deadline**: TBA
 * **AdvRSe 2021**: November 1-5, 2021
